@@ -1,0 +1,1 @@
+bokeh serve C:\core_files\agenttrading\bokehwhatif.py --port 5400   --allow-websocket-origin www.analytix.ai:5400
